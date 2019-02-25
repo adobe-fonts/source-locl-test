@@ -1,0 +1,71 @@
+[SourceLOCLTestSansJP-Regular]
+	f=3,1,0x0411,Source LOCL Test \89D2\30B4\30B7\30C3\30AF
+	s=3,1,0x0411,Regular
+	f=Source LOCL Test Sans JP
+	s=Regular
+
+[SourceLOCLTestSansKR-Regular]
+	f=3,1,0x0412,Source LOCL Test \ACE0\B515
+	s=3,1,0x0412,Regular
+	f=Source LOCL Test Sans KR
+	s=Regular
+
+[SourceLOCLTestSansCN-Regular]
+	f=3,1,0x0804,Source LOCL Test \9ED1\4F53
+	s=3,1,0x0804,Regular
+	f=Source LOCL Test Sans CN
+	s=Regular
+
+[SourceLOCLTestSansTW-Regular]
+	f=3,1,0x0404,Source LOCL Test \9ED1\9AD4
+	s=3,1,0x0404,Regular
+	f=Source LOCL Test Sans TW
+	s=Regular
+
+[SourceLOCLTestSansHK-Regular]
+	f=3,1,0x0C04,Source LOCL Test \9ED1\9AD4 \9999\6E2F
+	s=3,1,0x0C04,Regular
+	f=Source LOCL Test Sans HK
+	s=Regular
+
+[SourceLOCLTestSansMO-Regular]
+	f=3,1,0x1404,Source LOCL Test 9ED1\9AD4 \6FB3\9580
+	s=3,1,0x1404,Regular
+	f=Source LOCL Test Sans MO
+	s=Regular
+
+[SourceLOCLTestSerifJP-Regular]
+	f=3,1,0x0411,Source LOCL Test \660E\671D
+	s=3,1,0x0411,Regular
+	f=Source LOCL Test Serif JP
+	s=Regular
+
+[SourceLOCLTestSerifKR-Regular]
+	f=3,1,0x0412,Source LOCL Test \BA85\C870
+	s=3,1,0x0412,Regular
+	f=Source LOCL Test Serif KR
+	s=Regular
+
+[SourceLOCLTestSerifCN-Regular]
+	f=3,1,0x0804,Source LOCL Test \5B8B\4F53
+	s=3,1,0x0804,Regular
+	f=Source LOCL Test Serif CN
+	s=Regular
+
+[SourceLOCLTestSerifTW-Regular]
+	f=3,1,0x0404,Source LOCL Test \5B8B\9AD4
+	s=3,1,0x0404,Regular
+	f=Source LOCL Test Serif TW
+	s=Regular
+
+[SourceLOCLTestSerifHK-Regular]
+	f=3,1,0x0C04,Source LOCL Test \5B8B\9AD4 \9999\6E2F
+	s=3,1,0x0C04,Regular
+	f=Source LOCL Test Serif HK
+	s=Regular
+
+[SourceLOCLTestSerifMO-Regular]
+	f=3,1,0x1404,Source LOCL Test \5B8B\9AD4 \6FB3\9580
+	s=3,1,0x1404,Regular
+	f=Source LOCL Test Serif MO
+	s=Regular

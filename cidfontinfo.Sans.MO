@@ -1,0 +1,22 @@
+FontName                   (SourceLOCLTestSansMO-Regular)
+FullName                   (Source LOCL Test Sans MO Regular)
+FamilyName                 (Source LOCL Test Sans MO)
+Weight                     (Regular)
+version                    (1.000)
+Registry                   (Adobe)
+Ordering                   (Identity)
+Supplement                 0
+Layout                     (AI0-LOCLTest)
+FSType                     0
+isFixedPitch               false
+UnderlinePosition          -150
+AdobeCopyright             (Copyright 2019 Adobe (http://www.adobe.com/).)
+Trademark                  (Source is a trademark of Adobe in the United States and/or other countries.)
+Serif                      false
+IsBoldStyle                false
+IsItalicStyle              false
+PreferOS/2TypoMetrics      false
+IsOS/2WidthWeigthSlopeOnly false
+IsOS/2OBLIQUE              false
+UseOldNameID4              false
+LicenseCode                ADOBE
